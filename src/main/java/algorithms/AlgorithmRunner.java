@@ -1,4 +1,4 @@
-package algorithms.impl;
+package algorithms;
 
 public class AlgorithmRunner {
 }
