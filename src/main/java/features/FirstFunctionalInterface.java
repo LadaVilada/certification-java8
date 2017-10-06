@@ -1,4 +1,4 @@
-package main.java;
+package features;
 
 /**
  * Created by vlada on 23.08.16.
