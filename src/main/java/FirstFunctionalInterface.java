@@ -1,3 +1,5 @@
+package main.java;
+
 /**
  * Created by vlada on 23.08.16.
  */
